@@ -1,0 +1,23 @@
+﻿  Week10_Lighting+Diffuse.cpp
+e:\uni\cgp2012m- graphics\assessments\assessment 2\fractal bubbleoids\cgp2012m_graphics\cgp2012m_graphics\circletexture.h(100): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+e:\uni\cgp2012m- graphics\assessments\assessment 2\fractal bubbleoids\cgp2012m_graphics\cgp2012m_graphics\camera.h(35): warning C4305: '=': truncation from 'double' to 'float'
+e:\uni\cgp2012m- graphics\assessments\assessment 2\fractal bubbleoids\cgp2012m_graphics\cgp2012m_graphics\model.h(86): warning C4018: '<': signed/unsigned mismatch
+e:\uni\cgp2012m- graphics\assessments\assessment 2\fractal bubbleoids\cgp2012m_graphics\cgp2012m_graphics\text.h(220): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\uni\cgp2012m- graphics\assessments\assessment 2\fractal bubbleoids\cgp2012m_graphics\cgp2012m_graphics\text.h(221): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\uni\cgp2012m- graphics\assessments\assessment 2\fractal bubbleoids\cgp2012m_graphics\cgp2012m_graphics\text.h(228): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\uni\cgp2012m- graphics\assessments\assessment 2\fractal bubbleoids\cgp2012m_graphics\cgp2012m_graphics\text.h(232): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\uni\cgp2012m- graphics\assessments\assessment 2\fractal bubbleoids\cgp2012m_graphics\cgp2012m_graphics\text.h(267): warning C4838: conversion from 'int' to 'Uint8' requires a narrowing conversion
+e:\uni\cgp2012m- graphics\assessments\assessment 2\fractal bubbleoids\cgp2012m_graphics\cgp2012m_graphics\week10_lighting+diffuse.cpp(193): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+e:\uni\cgp2012m- graphics\assessments\assessment 2\fractal bubbleoids\cgp2012m_graphics\cgp2012m_graphics\week10_lighting+diffuse.cpp(245): warning C4101: 'projectionLocation': unreferenced local variable
+e:\uni\cgp2012m- graphics\assessments\assessment 2\fractal bubbleoids\cgp2012m_graphics\cgp2012m_graphics\week10_lighting+diffuse.cpp(242): warning C4101: 'transformLocation': unreferenced local variable
+e:\uni\cgp2012m- graphics\assessments\assessment 2\fractal bubbleoids\cgp2012m_graphics\cgp2012m_graphics\week10_lighting+diffuse.cpp(250): warning C4101: 'ambientIntensityLocation': unreferenced local variable
+e:\uni\cgp2012m- graphics\assessments\assessment 2\fractal bubbleoids\cgp2012m_graphics\cgp2012m_graphics\week10_lighting+diffuse.cpp(249): warning C4101: 'backgroundColourLocation': unreferenced local variable
+e:\uni\cgp2012m- graphics\assessments\assessment 2\fractal bubbleoids\cgp2012m_graphics\cgp2012m_graphics\week10_lighting+diffuse.cpp(251): warning C4101: 'modelColourLocation': unreferenced local variable
+e:\uni\cgp2012m- graphics\assessments\assessment 2\fractal bubbleoids\cgp2012m_graphics\cgp2012m_graphics\week10_lighting+diffuse.cpp(243): warning C4101: 'modelLocation': unreferenced local variable
+e:\uni\cgp2012m- graphics\assessments\assessment 2\fractal bubbleoids\cgp2012m_graphics\cgp2012m_graphics\week10_lighting+diffuse.cpp(252): warning C4101: 'modelAmbientLocation': unreferenced local variable
+e:\uni\cgp2012m- graphics\assessments\assessment 2\fractal bubbleoids\cgp2012m_graphics\cgp2012m_graphics\week10_lighting+diffuse.cpp(244): warning C4101: 'viewLocation': unreferenced local variable
+e:\uni\cgp2012m- graphics\assessments\assessment 2\fractal bubbleoids\cgp2012m_graphics\cgp2012m_graphics\week10_lighting+diffuse.cpp(258): warning C4101: 'viewPositionLocation': unreferenced local variable
+e:\uni\cgp2012m- graphics\assessments\assessment 2\fractal bubbleoids\cgp2012m_graphics\cgp2012m_graphics\week10_lighting+diffuse.cpp(709): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+e:\uni\cgp2012m- graphics\assessments\assessment 2\fractal bubbleoids\cgp2012m_graphics\cgp2012m_graphics\week10_lighting+diffuse.cpp(715): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+e:\uni\cgp2012m- graphics\assessments\assessment 2\fractal bubbleoids\cgp2012m_graphics\cgp2012m_graphics\modelloaderclass.h(100): warning C4715: 'ModelImport::LoadOBJ': not all control paths return a value
+  CGP2012M_Graphics.vcxproj -> E:\Uni\CGP2012M- Graphics\Assessments\Assessment 2\Fractal Bubbleoids\CGP2012M_Graphics\Debug\CGP2012M_Graphics.exe

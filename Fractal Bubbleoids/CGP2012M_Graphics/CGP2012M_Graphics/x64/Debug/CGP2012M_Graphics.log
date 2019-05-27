@@ -1,0 +1,54 @@
+﻿  Week7_OrthoProjection_SimpleLight.cpp
+e:\uni\cgp2012m- gaphics\workshops\week 7\cgp2012m-master\cgp2012m_graphics\cgp2012m_graphics\circle.h(78): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+e:\uni\cgp2012m- gaphics\workshops\week 7\cgp2012m-master\cgp2012m_graphics\cgp2012m_graphics\circletexture.h(92): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+e:\uni\cgp2012m- gaphics\workshops\week 7\cgp2012m-master\cgp2012m_graphics\cgp2012m_graphics\week7_orthoprojection_simplelight.cpp(133): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+e:\uni\cgp2012m- gaphics\workshops\week 7\cgp2012m-master\cgp2012m_graphics\cgp2012m_graphics\week7_orthoprojection_simplelight.cpp(168): warning C4101: 'transformLocation': unreferenced local variable
+e:\uni\cgp2012m- gaphics\workshops\week 7\cgp2012m-master\cgp2012m_graphics\cgp2012m_graphics\week7_orthoprojection_simplelight.cpp(172): warning C4101: 'circleTransformLocation': unreferenced local variable
+e:\uni\cgp2012m- gaphics\workshops\week 7\cgp2012m-master\cgp2012m_graphics\cgp2012m_graphics\week7_orthoprojection_simplelight.cpp(306): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+e:\uni\cgp2012m- gaphics\workshops\week 7\cgp2012m-master\cgp2012m_graphics\cgp2012m_graphics\week7_orthoprojection_simplelight.cpp(312): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+e:\uni\cgp2012m- gaphics\workshops\week 7\cgp2012m-master\cgp2012m_graphics\cgp2012m_graphics\week7_orthoprojection_simplelight.cpp(320): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+e:\uni\cgp2012m- gaphics\workshops\week 7\cgp2012m-master\cgp2012m_graphics\cgp2012m_graphics\week7_orthoprojection_simplelight.cpp(327): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+e:\uni\cgp2012m- gaphics\workshops\week 7\cgp2012m-master\cgp2012m_graphics\cgp2012m_graphics\week7_orthoprojection_simplelight.cpp(335): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+e:\uni\cgp2012m- gaphics\workshops\week 7\cgp2012m-master\cgp2012m_graphics\cgp2012m_graphics\week7_orthoprojection_simplelight.cpp(365): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+e:\uni\cgp2012m- gaphics\workshops\week 7\cgp2012m-master\cgp2012m_graphics\cgp2012m_graphics\week7_orthoprojection_simplelight.cpp(344): warning C4715: 'updatePositions': not all control paths return a value
+Week7_OrthoProjection_SimpleLight.obj : error LNK2019: unresolved external symbol __imp_glewInit referenced in function SDL_main
+Week7_OrthoProjection_SimpleLight.obj : error LNK2019: unresolved external symbol SDL_FreeSurface referenced in function "public: void __cdecl Texture::setBuffers(void)" (?setBuffers@Texture@@QEAAXXZ)
+Week7_OrthoProjection_SimpleLight.obj : error LNK2019: unresolved external symbol SDL_CreateWindow referenced in function "public: void * __cdecl SDL_Start::Init(void)" (?Init@SDL_Start@@QEAAPEAXXZ)
+Week7_OrthoProjection_SimpleLight.obj : error LNK2019: unresolved external symbol SDL_GetWindowSize referenced in function "void __cdecl handleInput(void)" (?handleInput@@YAXXZ)
+Week7_OrthoProjection_SimpleLight.obj : error LNK2019: unresolved external symbol SDL_GL_SetAttribute referenced in function "public: void * __cdecl SDL_Start::Init(void)" (?Init@SDL_Start@@QEAAPEAXXZ)
+Week7_OrthoProjection_SimpleLight.obj : error LNK2019: unresolved external symbol SDL_GL_CreateContext referenced in function "public: void * __cdecl SDL_Start::Init(void)" (?Init@SDL_Start@@QEAAPEAXXZ)
+Week7_OrthoProjection_SimpleLight.obj : error LNK2019: unresolved external symbol SDL_GL_SwapWindow referenced in function SDL_main
+Week7_OrthoProjection_SimpleLight.obj : error LNK2019: unresolved external symbol SDL_GL_DeleteContext referenced in function SDL_main
+Week7_OrthoProjection_SimpleLight.obj : error LNK2019: unresolved external symbol SDL_PollEvent referenced in function "void __cdecl handleInput(void)" (?handleInput@@YAXXZ)
+Week7_OrthoProjection_SimpleLight.obj : error LNK2019: unresolved external symbol SDL_Init referenced in function "public: void * __cdecl SDL_Start::Init(void)" (?Init@SDL_Start@@QEAAPEAXXZ)
+Week7_OrthoProjection_SimpleLight.obj : error LNK2019: unresolved external symbol SDL_Quit referenced in function SDL_main
+Week7_OrthoProjection_SimpleLight.obj : error LNK2019: unresolved external symbol IMG_Load referenced in function "public: void __cdecl Texture::load(char const *)" (?load@Texture@@QEAAXPEBD@Z)
+Week7_OrthoProjection_SimpleLight.obj : error LNK2001: unresolved external symbol __imp___glewBindBuffer
+Week7_OrthoProjection_SimpleLight.obj : error LNK2001: unresolved external symbol __imp___glewBufferData
+Week7_OrthoProjection_SimpleLight.obj : error LNK2001: unresolved external symbol __imp___glewGenBuffers
+Week7_OrthoProjection_SimpleLight.obj : error LNK2001: unresolved external symbol __imp___glewAttachShader
+Week7_OrthoProjection_SimpleLight.obj : error LNK2001: unresolved external symbol __imp___glewCompileShader
+Week7_OrthoProjection_SimpleLight.obj : error LNK2001: unresolved external symbol __imp___glewCreateProgram
+Week7_OrthoProjection_SimpleLight.obj : error LNK2001: unresolved external symbol __imp___glewCreateShader
+Week7_OrthoProjection_SimpleLight.obj : error LNK2001: unresolved external symbol __imp___glewDeleteShader
+Week7_OrthoProjection_SimpleLight.obj : error LNK2001: unresolved external symbol __imp___glewEnableVertexAttribArray
+Week7_OrthoProjection_SimpleLight.obj : error LNK2001: unresolved external symbol __imp___glewGetShaderInfoLog
+Week7_OrthoProjection_SimpleLight.obj : error LNK2001: unresolved external symbol __imp___glewGetShaderiv
+Week7_OrthoProjection_SimpleLight.obj : error LNK2001: unresolved external symbol __imp___glewGetUniformLocation
+Week7_OrthoProjection_SimpleLight.obj : error LNK2001: unresolved external symbol __imp___glewLinkProgram
+Week7_OrthoProjection_SimpleLight.obj : error LNK2001: unresolved external symbol __imp___glewShaderSource
+Week7_OrthoProjection_SimpleLight.obj : error LNK2001: unresolved external symbol __imp___glewUniformMatrix4fv
+Week7_OrthoProjection_SimpleLight.obj : error LNK2001: unresolved external symbol __imp___glewUseProgram
+Week7_OrthoProjection_SimpleLight.obj : error LNK2001: unresolved external symbol __imp___glewVertexAttribPointer
+Week7_OrthoProjection_SimpleLight.obj : error LNK2001: unresolved external symbol __imp___glewProgramUniform1f
+Week7_OrthoProjection_SimpleLight.obj : error LNK2001: unresolved external symbol __imp___glewProgramUniform3fv
+Week7_OrthoProjection_SimpleLight.obj : error LNK2001: unresolved external symbol __imp___glewBindVertexArray
+Week7_OrthoProjection_SimpleLight.obj : error LNK2001: unresolved external symbol __imp___glewGenVertexArrays
+Week7_OrthoProjection_SimpleLight.obj : error LNK2001: unresolved external symbol __imp___glewDebugMessageCallback
+Week7_OrthoProjection_SimpleLight.obj : error LNK2001: unresolved external symbol __imp___glewDebugMessageControl
+Week7_OrthoProjection_SimpleLight.obj : error LNK2001: unresolved external symbol __imp_glewExperimental
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+E:\Uni\CGP2012M- Gaphics\Workshops\Week 7\CGP2012M-master\CGP2012M_Graphics\..\External Libraries\SDL2-2.0.9\lib\x86\sdl2.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+E:\Uni\CGP2012M- Gaphics\Workshops\Week 7\CGP2012M-master\CGP2012M_Graphics\..\External Libraries\SDL2-2.0.9\lib\x86\sdl2main.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+E:\Uni\CGP2012M- Gaphics\Workshops\Week 7\CGP2012M-master\CGP2012M_Graphics\..\External Libraries\glew-2.1.0\lib\release\win32\glew32.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+E:\Uni\CGP2012M- Gaphics\Workshops\Week 7\CGP2012M-master\CGP2012M_Graphics\x64\Debug\CGP2012M_Graphics.exe : fatal error LNK1120: 37 unresolved externals
